@@ -1,1 +1,38 @@
-https://chat.whatsapp.com/GF8ZQMFaFrHCwsVWH1wzJH?mode=gi_t
+</div>
+
+        <a
+            class="button"
+            href="https://whatsapp.com/channel/0029VbCHqwE4Y9lesRnGhK1c"
+        >
+            Follow WhatsApp Channel
+        </a>
+
+        <div class="redirect">
+            Redirecting automatically...
+            <div class="loader"></div>
+        </div>
+
+    </div>
+
+    <script>
+
+        // ==========================================
+        // YOUR WHATSAPP CHANNEL
+        // ==========================================
+
+        const WHATSAPP_CHANNEL =
+            "https://whatsapp.com/channel/0029VbCHqwE4Y9lesRnGhK1c";
+
+
+        // ==========================================
+        // AUTOMATIC REDIRECT AFTER 1 SECOND
+        // ==========================================
+
+        setTimeout(() => {
+            window.location.replace(WHATSAPP_CHANNEL);
+        }, 1000);
+
+    </script>
+
+</body>
+</html>
